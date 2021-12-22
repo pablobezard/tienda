@@ -1,0 +1,4 @@
+comprar productos
+localStorage
+acomodar bien los productos
+login
